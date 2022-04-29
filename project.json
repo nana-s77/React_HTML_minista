@@ -1,0 +1,14 @@
+{
+  "name": "my-minista-project",
+  "sitemap": {
+    "main": {
+      "title": "Main",
+      "items": [
+        {
+          "name": "Home",
+          "slug": "/"
+        }
+      ]
+    }
+  }
+}
